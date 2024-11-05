@@ -21,7 +21,7 @@ This Python-based proxy server listens for client requests and forwards them to 
 
 1. Clone the repository (if applicable):
    ```bash
-   git clone https://github.com/yourusername/proxy-server.git
+   git clone https://github.com/shiv-835/cn-mini-project.git
    cd proxy-server
    ```
 
